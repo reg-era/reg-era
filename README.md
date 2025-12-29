@@ -1,5 +1,6 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reg-era&stats_format=bytes&layout=compact&theme=synthwave)
-<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reg-era&show_icons=true&theme=synthwave&hide_title=true&hide_progress=true&rank_icon=github) -->
+![Top Languages](https://gitmystat.vercel.app/top?username=reg-era&layout=bar&theme=catppuccin)
+![GitHub Stats](https://gitmystat.vercel.app/user?username=reg-era&layout=bar&theme=catppuccin)
+![GitHub Recent](https://gitmystat.vercel.app/recent?username=reg-era&theme=catppuccin)
 
 ## 🌍 My Mission
 
